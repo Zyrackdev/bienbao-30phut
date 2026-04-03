@@ -5,6 +5,12 @@
 Tải về tại đây:
 https://github.com/Zyrackdev/bienbao-30phut/releases/latest/download/bienbao-30phut.html
 
+
+## Dùng online trên trình duyệt 
+Copy link này:
+https://zyrackdev.github.io/bienbao-30phut/
+
+
 Giúp bạn nhớ biển báo giao thông nhanh trước khi thi bằng lái.
 Mở ra là học, không cần cài đặt.
 
