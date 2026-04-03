@@ -1,5 +1,9 @@
 # bienbao-30phut
 Ôn nhanh biển báo giao thông
+## Dùng offline
+
+Tải về tại đây:
+https://github.com/Zyrackdev/bienbao-30phut/releases/latest/download/bienbao-30phut.html
 
 Giúp bạn nhớ biển báo giao thông nhanh trước khi thi bằng lái.
 Mở ra là học, không cần cài đặt.
