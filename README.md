@@ -7,7 +7,8 @@ https://github.com/Zyrackdev/bienbao-30phut/releases/latest/download/bienbao-30p
 
 
 ## Dùng online trên trình duyệt 
-Copy link này:
+
+Sao chép link này:
 https://zyrackdev.github.io/bienbao-30phut/
 
 
